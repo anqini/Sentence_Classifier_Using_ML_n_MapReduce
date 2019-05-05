@@ -1,4 +1,4 @@
-# Yelp classifer
+# Yelp Classifier
 Author: Anqi Ni
 
 ## Intro
